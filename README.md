@@ -1,4 +1,4 @@
-# Irsi_flower_data_analysis_project
+# Iris Flower Data Analysis Project
 In this project, I am performing Exploratory Data Analysis on the Iris Flower Dataset.
 
 The Iris Flower data set is also known as Fisher’s Iris data set. It is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in 1936. It contains measurements of 150 iris plants, with 50 plants from every three species. Fisher measured the sepal length, sepal width, petal length, and petal width for each plant.
